@@ -1,0 +1,29 @@
+@font-face {
+	font-family: "OpenSans-reg";
+	src: url("../fonts/OpenSans-Regular.ttf");
+}
+
+@font-face {
+	font-family: "OpenSans-bold";
+	src: url("../fonts/OpenSans-Bold.ttf");
+}
+
+@font-face {
+	font-family: "SansPro";
+	src: url("../fonts/SourceSansPro-Light.ttf"); 
+}
+
+@font-face {
+	font-family: "BigJohn";
+	src: url("../fonts/BIG JOHN.otf");
+}
+
+@font-face {
+	font-family: "Roboto";
+	src: url("../fonts/Roboto-Light.ttf");
+}
+
+@font-face {
+	font-family:"SansPro-bold";
+	src:url(../fonts/SourceSansPro-Bold.ttf);
+}
