@@ -1,29 +1,35 @@
 @font-face {
 	font-family: "OpenSans-reg";
-	src: url("../fonts/OpenSans-Regular.ttf");
+	src: url("../fonts/OpenSans-Regular.ttf") format("ttf"),
+			url("../fonts/OpenSans-Regular.woff2") format("woff2");
 }
 
 @font-face {
 	font-family: "OpenSans-bold";
-	src: url("../fonts/OpenSans-Bold.ttf");
+	src: url("../fonts/OpenSans-Bold.ttf") format("ttf"),
+			url("../fonts/OpenSans-Bold.woff2") format("woff2");
 }
 
 @font-face {
 	font-family: "SansPro";
-	src: url("../fonts/SourceSansPro-Light.ttf"); 
+	src: url("../fonts/SourceSansPro-Light.ttf") format("ttf"),
+			url("../fonts/SourceSansPro-Light.woff2") format("woff2");
 }
 
 @font-face {
 	font-family: "BigJohn";
-	src: url("../fonts/BIG JOHN.otf");
+	src: url("../fonts/BIG JOHN.otf") format("otf"),
+			url("../fonts/BigJohn.woff2") format("woff2");
 }
 
 @font-face {
 	font-family: "Roboto";
-	src: url("../fonts/Roboto-Light.ttf");
+	src: url("../fonts/Roboto-Light.ttf") format("ttf"),
+			url("../fonts/Roboto-Light.woff2") format("woff2"); 
 }
 
 @font-face {
 	font-family:"SansPro-bold";
-	src:url(../fonts/SourceSansPro-Bold.ttf);
+	src:url("../fonts/SourceSansPro-Bold.ttf") format("ttf"),
+			url("../fonts/SourceSansPro-Bold.woff2") format("woff2");
 }
